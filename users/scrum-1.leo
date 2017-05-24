@@ -20,11 +20,41 @@
 <v t="yen.20170524151033.1"><vh>&lt;&lt; navigator &gt;&gt;</vh></v>
 <v t="yen.20170524151150.1"><vh>&lt;&lt; video_area &gt;&gt;</vh></v>
 <v t="yen.20170524151319.1"><vh>&lt;&lt; content &gt;&gt;</vh></v>
-<v t="yen.20170524151430.1"><vh>&lt;&lt; download &gt;&gt;</vh></v>
+<v t="leo.20170524133737.1"><vh>&lt;&lt; downloads &gt;&gt;</vh></v>
 </v>
 </v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170524133737.1">    &lt;!-- Start Downloads Section --&gt;
+    &lt;section id="downloads" class="section" data-stellar-background-ratio="0.2"&gt;
+      &lt;div class="container"&gt;
+
+        &lt;div class="section-header"&gt;          
+          &lt;h2 class="section-title wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s"&gt; &lt;span&gt;Downloads&lt;/span&gt;&lt;/h2&gt;
+          &lt;hr class="lines wow zoomIn" data-wow-delay="0.3s"&gt;
+        &lt;/div&gt;
+        
+        &lt;div class="row"&gt;
+          &lt;div class="col-md-12 col-sm-12"&gt;
+              &lt;div class="video-promo-content text-center"&gt;
+                &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Pyslvs 0.7dev for Windows 10 64bit&lt;/h2&gt;
+                &lt;a href="./downloads/Pyslvs0.7dev_win64.7z"&gt;Pyslvs0.7dev_win64.7z&lt;/a&gt;
+              &lt;/div&gt;
+              
+              &lt;div class="video-promo-content text-center"&gt;
+                &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Pyslvs 0.7dev for Ubuntu 16.04 64bit&lt;/h2&gt;
+                &lt;a href="./downloads/Pyslvs0.7dev_ubuntu64.7z"&gt;Pyslvs0.7dev_ubuntu64.7z&lt;/a&gt;
+              &lt;/div&gt;
+              
+              &lt;div class="video-promo-content text-center"&gt;
+                &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Pyslvs 0.7dev source code&lt;/h2&gt;
+                &lt;a href="./downloads/Pyslvs0.7dev_src.7z"&gt;Pyslvs0.7dev_src.7z&lt;/a&gt;
+              &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;!-- End Downloads Section --&gt;</t>
 <t tx="yen.20170524150353.2"></t>
 <t tx="yen.20170524150436.1"></t>
 <t tx="yen.20170524150436.2">QTreeWidget {
@@ -119,7 +149,6 @@ vertical: body pane on the botton</t>
           &lt;div class="col-md-10"&gt;
             &lt;div class="contents text-center"&gt;
               &lt;&lt; content &gt;&gt;
-              &lt;&lt; download &gt;&gt;
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt; 
@@ -127,6 +156,8 @@ vertical: body pane on the botton</t>
     &lt;/header&gt;
     &lt;!-- Header Section End --&gt; 
 
+&lt;&lt; downloads &gt;&gt;
+    
     &lt;!-- Features Section Start --&gt;
     &lt;section id="features" class="section" data-stellar-background-ratio="0.2"&gt;
       &lt;div class="container"&gt;
@@ -430,6 +461,9 @@ vertical: body pane on the botton</t>
                 &lt;a class="nav-link" href="#video-area"&gt;Home&lt;/a&gt;
               &lt;/li&gt;
               &lt;li class="nav-item"&gt;
+                &lt;a class="nav-link" href="#downloads"&gt;Downloads&lt;/a&gt;
+              &lt;/li&gt;  
+              &lt;li class="nav-item"&gt;
                 &lt;a class="nav-link" href="#features"&gt;Features&lt;/a&gt;
               &lt;/li&gt;                            
               &lt;li class="nav-item"&gt;
@@ -452,6 +486,5 @@ vertical: body pane on the botton</t>
 <t tx="yen.20170524151319.1">&lt;h1 class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0.3s"&gt;Pyslvs - Python Synthesis of Linkages and Verification Software&lt;/h1&gt;
 
 &lt;p class="lead  wow fadeIn" data-wow-duration="1000ms" data-wow-delay="400ms"&gt;Open Source Multi-platform Planar Linkage Mechanism Simulation and Synthesis Software&lt;/p&gt;</t>
-<t tx="yen.20170524151430.1">&lt;a href="#" class="btn btn-common wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms"&gt;&lt;i class="lnr lnr-download"&gt;&lt;/i&gt; Download&lt;/a&gt;</t>
 </tnodes>
 </leo_file>
