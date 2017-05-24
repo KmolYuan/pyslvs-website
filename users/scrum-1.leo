@@ -246,9 +246,9 @@ vertical: body pane on the botton</t>
         &lt;div class="row"&gt;
           &lt;div class="col-md-12 col-sm-12"&gt;
               &lt;div class="video-promo-content text-center"&gt;
-                &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Our Introductory Video&lt;/h2&gt;
-                &lt;p class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Learn more about us, its only 30mins&lt;/p&gt;
-                &lt;a href="https://www.youtube.com/watch?v=r44RKWyfcFw" class="video-popup wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="0.3s"&gt;&lt;i class="lnr lnr-film-play"&gt;&lt;/i&gt;&lt;/a&gt;
+                &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Multi-Link Simulation Video&lt;/h2&gt;
+                &lt;p class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Learn more about Pyslvs, its only 3mins&lt;/p&gt;
+                &lt;iframe src="https://player.vimeo.com/video/218628564" width="640" height="478" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
               &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -438,7 +438,7 @@ vertical: body pane on the botton</t>
 &lt;meta name="keywords" content="Bootstrap, Landing page, Template, Registration, Landing"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"&gt;
 &lt;meta name="author" content="Grayrids"&gt;
-&lt;title&gt;Pyslvs Site - Python Simulation of Linkages and Visualization Software&lt;/title&gt;
+&lt;title&gt;Pyslvs - Python Synthesis of Linkages and Verification Software&lt;/title&gt;
 
 &lt;!-- Bootstrap CSS --&gt;
 &lt;link rel="stylesheet" href="css/bootstrap.min.css"&gt;
@@ -478,7 +478,7 @@ vertical: body pane on the botton</t>
       &lt;div class="fixed-top"&gt;
           &lt;div class="container"&gt;
             &lt;div class="logo-menu"&gt;
-              &lt;a href="index.html" class="logo"&gt;&lt;span class="lnr lnr-diamond"&gt;&lt;/span&gt; Pyslvs&lt;/a&gt;
+              &lt;a href="https://vimeo.com/218628564" class="logo"&gt;&lt;span class="lnr lnr-diamond"&gt;&lt;/span&gt; Pyslvs&lt;/a&gt;
               &lt;button class="menu-button" id="open-button"&gt;&lt;i class="lnr lnr-menu"&gt;&lt;/i&gt;&lt;/button&gt;    
             &lt;/div&gt;           
           &lt;/div&gt;
