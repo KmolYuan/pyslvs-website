@@ -22,6 +22,7 @@
 <v t="yen.20170524151319.1"><vh>&lt;&lt; content &gt;&gt;</vh></v>
 <v t="leo.20170524133737.1"><vh>&lt;&lt; downloads &gt;&gt;</vh></v>
 </v>
+<v t="yen.20170526095438.1"><vh>@edit .gitignore</vh></v>
 </v>
 </vnodes>
 <tnodes>
