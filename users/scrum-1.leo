@@ -23,7 +23,9 @@
 <v t="yen.20170524151150.1"><vh>&lt;&lt; video_area &gt;&gt;</vh></v>
 <v t="yen.20170524151319.1"><vh>&lt;&lt; content &gt;&gt;</vh></v>
 </v>
-<v t="leo.20170524133737.1"><vh>&lt;&lt; downloads &gt;&gt;</vh></v>
+<v t="leo.20170524133737.1" a="E"><vh>&lt;&lt; downloads &gt;&gt;</vh>
+<v t="yen.20170527122713.1"><vh>&lt;&lt; claim &gt;&gt;</vh></v>
+</v>
 <v t="yen.20170527113820.1"><vh>&lt;&lt; features &gt;&gt;</vh></v>
 <v t="yen.20170527114205.1"><vh>&lt;&lt; video_promo &gt;&gt;</vh></v>
 <v t="yen.20170527114421.1"><vh>&lt;&lt; portfolio &gt;&gt;</vh></v>
@@ -42,11 +44,11 @@
       &lt;h2 class="section-title wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s"&gt; &lt;span&gt;Downloads&lt;/span&gt;&lt;/h2&gt;
       &lt;hr class="lines wow zoomIn" data-wow-delay="0.3s"&gt;
     &lt;/div&gt;
-    
+    &lt;&lt; claim &gt;&gt;
     &lt;div class="row"&gt;
       &lt;div class="col-md-12 col-sm-12"&gt;
           &lt;div class="video-promo-content text-center"&gt;
-            &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Pyslvs 0.7dev for Windows 10 64bit&lt;/h2&gt;
+            &lt;h3 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Pyslvs 0.7dev for Windows 10 64bit&lt;/h3&gt;
             &lt;a href="./downloads/Pyslvs0.7dev_win64.7z"&gt;Pyslvs0.7dev_win64.7z&lt;/a&gt;
           &lt;/div&gt;
           
@@ -512,5 +514,9 @@ vertical: body pane on the botton</t>
 &lt;script src="js/form-validator.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/contact-form-script.js"&gt;&lt;/script&gt;     
 &lt;script src="js/main.js"&gt;&lt;/script&gt;</t>
+<t tx="yen.20170527122713.1">This program is free software; you can redistribute it and/or modify it under the terms of the Affero General Public License (AGPL) as published by Affero, Inc. version 3.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+</t>
 </tnodes>
 </leo_file>
