@@ -48,24 +48,22 @@
     &lt;div class="row"&gt;
       &lt;div class="col-md-12 col-sm-12"&gt;
           &lt;div class="video-promo-content text-center"&gt;
-            &lt;h3 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Pyslvs 0.7dev for Windows 10 64bit&lt;/h3&gt;
-            &lt;a href="./downloads/Pyslvs0.7dev_win64.7z"&gt;Pyslvs0.7dev_win64.7z&lt;/a&gt;
+            &lt;h3 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;The Latest Version on Github&lt;/h3&gt;
+            &lt;p&gt;&lt;a href="https://github.com/KmolYuan/Pyslvs-PyQt5/releases/latest"&gt;Version 0.8.1 on Github&lt;/a&gt;&lt;/p&gt;
           &lt;/div&gt;
 
           &lt;div class="video-promo-content text-center"&gt;
-            &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Pyslvs 0.7dev for Ubuntu 16.04 64bit&lt;/h2&gt;
-            &lt;a href="./downloads/Pyslvs0.7dev_ubuntu64.7z"&gt;Pyslvs0.7dev_ubuntu64.7z&lt;/a&gt;
-          &lt;/div&gt;
-
-          &lt;div class="video-promo-content text-center"&gt;
-            &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Pyslvs 0.7dev source code&lt;/h2&gt;
-            &lt;a href="./downloads/Pyslvs0.7dev_src.7z"&gt;Pyslvs0.7dev_src.7z&lt;/a&gt;
+            &lt;h3 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Or the Previous Version&lt;/h3&gt;
+            &lt;p&gt;&lt;a href="./downloads/pyslvs_v0.7_windows_x64.exe"&gt;Version 0.7 for Windows&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href="./downloads/Pyslvs-PyQt5-0.7.0.zip"&gt;Version 0.7 Source Code&lt;/a&gt;&lt;/p&gt;
           &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/section&gt;
-&lt;!-- End Downloads Section --&gt;</t>
+&lt;!-- End Downloads Section --&gt;
+
+</t>
 <t tx="yen.20170524150353.2">pyslvs.com is with godaddy and the origin @ A DNS setting was removed.
 
 Apex domain setup reference: https://help.github.com/articles/setting-up-an-apex-domain/
@@ -179,8 +177,11 @@ vertical: body pane on the botton</t>
 
     &lt;&lt; javascript &gt;&gt;
 
+
   &lt;/body&gt;
-&lt;/html&gt;</t>
+&lt;/html&gt;
+
+</t>
 <t tx="yen.20170524150833.1">&lt;head&gt;
 &lt;!-- Required meta tags --&gt;
 &lt;meta charset="utf-8"&gt;
@@ -203,7 +204,9 @@ vertical: body pane on the botton</t>
 &lt;link rel="stylesheet" href="css/menu_sideslide.css"&gt;
 &lt;link rel="stylesheet" href="css/main.css"&gt;    
 &lt;link rel="stylesheet" href="css/responsive.css"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+
+</t>
 <t tx="yen.20170524151033.1">&lt;!-- Navigator Section Start --&gt;
 &lt;div class="menu-wrap"&gt;
 &lt;nav class="menu navbar"&gt;
@@ -221,12 +224,17 @@ vertical: body pane on the botton</t>
       &lt;li class="nav-item"&gt;
         &lt;a class="nav-link" href="#portfolios"&gt;Examples&lt;/a&gt;
       &lt;/li&gt;
+      &lt;li style="position: absolute; bottom: 0;" class="nav-item"&gt;
+        &lt;a class="nav-link" href="https://github.com/KmolYuan/Pyslvs-PyQt5"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt; Github&lt;/a&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
-&lt;/nav&gt; 
+&lt;/nav&gt;
 &lt;button class="close-button" id="close-button"&gt;&lt;i class="lnr lnr-cross"&gt;&lt;/i&gt;&lt;/button&gt;
 &lt;/div&gt;
-&lt;!-- End Navigator Section--&gt;</t>
+&lt;!-- End Navigator Section--&gt;
+
+</t>
 <t tx="yen.20170524151150.1">&lt;!-- Video_area Section Start --&gt;
 &lt;div id="block" data-vide-bg="video/video"&gt;&lt;/div&gt;
 &lt;div class="fixed-top"&gt;
@@ -237,7 +245,9 @@ vertical: body pane on the botton</t>
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;!-- End Video_area Section--&gt;</t>
+&lt;!-- End Video_area Section--&gt;
+
+</t>
 <t tx="yen.20170524151319.1">&lt;!-- Content Section Start --&gt;
 &lt;h1 class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0.3s"&gt;
 &lt;img src="img/banners/banner-icon.png"&gt;
@@ -248,7 +258,9 @@ Python Synthesis of Linkages and Verification Software
 &lt;/h1&gt;
 
 &lt;p class="lead  wow fadeIn" data-wow-duration="1000ms" data-wow-delay="400ms"&gt;Open Source Multi-platform Planar Linkage Mechanism Simulation and Synthesis Software&lt;/p&gt;
-&lt;!-- End Content Section --&gt;</t>
+&lt;!-- End Content Section --&gt;
+
+</t>
 <t tx="yen.20170527113612.1">&lt;!-- Header Section Start --&gt;
 &lt;header id="video-area" data-stellar-background-ratio="0.5"&gt;
 &lt;&lt; video_area &gt;&gt;
@@ -263,7 +275,9 @@ Python Synthesis of Linkages and Verification Software
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/header&gt;
-&lt;!-- End Header Section --&gt;</t>
+&lt;!-- End Header Section --&gt;
+
+</t>
 <t tx="yen.20170527113820.1">&lt;!-- Features Section Start --&gt;
 &lt;section id="features" class="section" data-stellar-background-ratio="0.2"&gt;
 &lt;div class="container"&gt;
@@ -279,32 +293,32 @@ Python Synthesis of Linkages and Verification Software
     &lt;div class="content-left text-right wow fadeInLeft animated" data-wow-offset="10"&gt;
 
       &lt;div class="box-item left"&gt;
-        &lt;a href="http://www.swig.org/index.php" title="SWIG official website"&gt;
+        &lt;a href="https://github.com/KmolYuan/python-solvespace"&gt;
             &lt;span class="icon"&gt;&lt;i class="lnr lnr-code"&gt;&lt;/i&gt;&lt;/span&gt;
         &lt;/a&gt;
         &lt;div class="text"&gt;
-          &lt;h4&gt;SWIG Based Library&lt;/h4&gt;
-          &lt;p&gt;Solvespace Geometric Contraint Solver Shared Library through SWIG.&lt;/p&gt;
+          &lt;h4&gt;Python-Solvespace&lt;/h4&gt;
+          &lt;p&gt;Solvespace Geometric Contraint Solver Shared Library through &lt;a href="http://www.swig.org/index.php"&gt;SWIG&lt;/a&gt;.&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
 
       &lt;div class="box-item left"&gt;
-        &lt;a href="http://mde.tw/2017springcd/blog/brython-2d-drawing.html" title="See how we did it"&gt;
+        &lt;a href="https://gist.github.com/KmolYuan/c5a94b769bc410524bba66acc5204a8f"&gt;
             &lt;span class="icon"&gt;&lt;i class="lnr lnr-code"&gt;&lt;/i&gt;&lt;/span&gt;
         &lt;/a&gt;
         &lt;div class="text"&gt;
           &lt;h4&gt;Triangle Constraint Solver&lt;/h4&gt;
-          &lt;p&gt;Utilize Sympy to derivate symbolic equations and solve numerically.&lt;/p&gt;
+          &lt;p&gt;Utilize &lt;a href="http://www.sympy.org"&gt;SymPy&lt;/a&gt; to derivate symbolic equations and solve numerically.&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
 
       &lt;div class="box-item left"&gt;
-        &lt;a href="https://eric-ide.python-projects.org/index.html" title="Eric IDE official website"&gt;
+        &lt;a href="https://github.com/KmolYuan/Pyslvs-PyQt5#pyqt"&gt;
             &lt;span class="icon"&gt;&lt;i class="lnr lnr-code"&gt;&lt;/i&gt;&lt;/span&gt;
         &lt;/a&gt;
         &lt;div class="text"&gt;
           &lt;h4&gt;PyQt5 and Eric6 Based&lt;/h4&gt;
-          &lt;p&gt;PyQt5 GUI and Eric6 IDE&lt;/p&gt;
+          &lt;p&gt;Developed on &lt;a href="https://www.riverbankcomputing.com/software/pyqt/intro"&gt;PyQt5&lt;/a&gt; GUI and &lt;a href="https://eric-ide.python-projects.org/index.html"&gt;Eric6 IDE&lt;/a&gt;.&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
 
@@ -353,7 +367,9 @@ Python Synthesis of Linkages and Verification Software
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/section&gt;
-&lt;!-- End Features Section --&gt;    </t>
+&lt;!-- End Features Section --&gt;    
+
+</t>
 <t tx="yen.20170527114205.1">&lt;!-- Start Video promo Section --&gt;
 &lt;section class="video-promo section" data-stellar-background-ratio="0.5"&gt;
 &lt;div class="overlay"&gt;&lt;/div&gt;
@@ -363,13 +379,15 @@ Python Synthesis of Linkages and Verification Software
           &lt;div class="video-promo-content text-center"&gt;
             &lt;h2 class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Multi-Link Simulation Video&lt;/h2&gt;
             &lt;p class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms"&gt;Learn more about Pyslvs, its only 3mins&lt;/p&gt;
-            &lt;iframe src="https://player.vimeo.com/video/218628564" width="640" height="478" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+            &lt;iframe class="wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms" src="https://player.vimeo.com/video/218628564" width="640" height="478" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
           &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/section&gt;
-&lt;!-- End Video Promo Section --&gt;</t>
+&lt;!-- End Video Promo Section --&gt;
+
+</t>
 <t tx="yen.20170527114421.1">&lt;!-- Portfolio Section --&gt;
 &lt;section id="portfolios" class="section"&gt;
   &lt;!-- Container Starts --&gt;
@@ -466,7 +484,9 @@ Python Synthesis of Linkages and Verification Software
   &lt;/div&gt;
   &lt;!-- Container Ends --&gt;
 &lt;/section&gt;
-&lt;!-- Portfolio Section Ends --&gt; </t>
+&lt;!-- Portfolio Section Ends --&gt; 
+
+</t>
 <t tx="yen.20170527114620.1">&lt;!-- Footer Section Start --&gt;
 &lt;footer&gt;
   &lt;div class="container"&gt;
@@ -485,7 +505,9 @@ Python Synthesis of Linkages and Verification Software
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/footer&gt;
-&lt;!-- Footer Section End --&gt; </t>
+&lt;!-- Footer Section End --&gt; 
+
+</t>
 <t tx="yen.20170527114712.1">&lt;!-- Download Section Start --&gt;
 &lt;section id="download" class="section"&gt;
   &lt;div class="container"&gt;
@@ -503,7 +525,9 @@ Python Synthesis of Linkages and Verification Software
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/section&gt;
-&lt;!-- Download Section End --&gt;</t>
+&lt;!-- Download Section End --&gt;
+
+</t>
 <t tx="yen.20170527114811.1">&lt;!-- jQuery first, then Tether, then Bootstrap JS. --&gt;
 &lt;script src="js/jquery-min.js"&gt;&lt;/script&gt;
 &lt;script src="js/tether.min.js"&gt;&lt;/script&gt;
@@ -524,7 +548,8 @@ Python Synthesis of Linkages and Verification Software
 &lt;script src="js/waypoints.min.js"&gt;&lt;/script&gt;    
 &lt;script src="js/form-validator.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/contact-form-script.js"&gt;&lt;/script&gt;     
-&lt;script src="js/main.js"&gt;&lt;/script&gt;</t>
+&lt;script src="js/main.js"&gt;&lt;/script&gt;
+</t>
 <t tx="yen.20170527122713.1">This program is free software; you can redistribute it and/or modify it under the terms of the Affero General Public License (AGPL) as published by Affero, Inc. version 3.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
